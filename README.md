@@ -12,13 +12,14 @@ Because of the size of the imaging files,the sql database, and neural networks w
 # Running the webserver in Docker container
 1. Download image data and sql database from zenodo into a folder (for instance /home/your_username/). Make sure the database is at the same level as the folder of the individual antibiotics i.e.
 ```
-/home/your_username/
-                  ├── database.db
-                  ├── Ampicillin/
-                  ├── Gentamicin/
-                  ├── Chloramphenicol/
-                  ├── Tetracycline/
-                  └── Ciprofloxacin/
+/home/
+└──your_username/
+    ├── database.db
+    ├── Ampicillin/
+    ├── Gentamicin/
+    ├── Chloramphenicol/
+    ├── Tetracycline/
+    └── Ciprofloxacin/
 ```
 
 2. Download docker image from github repo 
