@@ -35,7 +35,7 @@ Because of the size of the imaging files,the sql database, and neural networks w
 
 
 #  Brief explanation of the scripts not associated to figures
-1.  Construct table with training dataset from the webserver and create  tif-crops used for training
+1. CreateTrainingSetFromDatabase: Construct table with training dataset from the webserver and create  tif-crops used for training
 2.  Trains pytorsch's resnet34 on the training data
 3. Applies trained neural network to all data and constructs tables with labels
 4. Extracts single morphology probabilities from tables
