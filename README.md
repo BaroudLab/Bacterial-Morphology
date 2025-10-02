@@ -7,7 +7,7 @@ a flask webserver which easly allows to visualise images and the associated labe
 
 # External Data
 
-Because of the size of the imaging files,the sql database, and neural networks weights these are provided via zenodo  https://doi.org/10.5281/zenodo.17193390
+Because of the size of the imaging files,the sql database, and neural networks weights these are provided via zenodo  https://doi.org/10.5281/zenodo.17193389
 
 # Running the webserver in Docker container
 1. Download image data and sql database from zenodo into a folder (for instance /home/your_username/). Make sure the database is at the same level as the folder of the individual antibiotics i.e.
