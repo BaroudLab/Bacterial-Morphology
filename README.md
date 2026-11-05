@@ -1,6 +1,6 @@
 # Bacterial survival and morphological heterogeneity
 
-This repository contains tables and jupyter notebooks needed to reproduce analysis and generate all plots from main and supplementary figures from the article "Extending digital biology: bacterial survival and morphological heterogeneity under antibiotic stress" by Maikranz et al.
+This repository contains tables and jupyter notebooks needed to reproduce analysis and generate all plots from main and supplementary figures from the article "Extending digital biology: bacterial survival and morphological heterogeneity under antibiotic stress" by Maikranz et al., iScience, 2026 (https://www.cell.com/iscience/fulltext/S2589-0042(26)03415-2). 
 For full functionalty there is a zenodo archive with imaging files, a sql database, and neural network weights associated. Furthermore, we provide a docker container that allows to run
 a flask webserver which easly allows to visualise images and the associated labels. This also provides access to the labelling interface that allows context aware and context free annotations. Lastly, several scripts that produce intermediate tables depend on the webserverer running. If so this is mentioned inside the scripts.
 
