@@ -1,4 +1,4 @@
-,pred_logit_0,pred_logit_1,pred_logit_2,pred_logit_3,pred_logit_4,id_list,positive,rods,planktonic,filaments,clumped
+,pred_logit_0,pred_logit_1,pred_logit_2,pred_logit_3,pred_logit_4,id_list,positive,planktonic,clumped,rods,filaments
 0,-5.2543087,-4.838998,-4.7985225,-4.3309317,-4.784608,364,0,0,0,0,0
 1,-4.864432,2.9518495,-4.7108097,-4.673071,-3.9636254,318,0,1,0,0,0
 2,-5.35404,-6.7248125,-3.762105,-4.337207,-4.581826,313,0,0,0,0,0
